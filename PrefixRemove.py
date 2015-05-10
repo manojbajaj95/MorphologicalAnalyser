@@ -84,7 +84,7 @@ for word in tokens:
     if stem==stem1:
         b=b+1
     print ("Stem by Lancaster: " + stem)
-    stem = wnl.lemmatize(word)
+    stem = snowball.stem(word)
     if (stem1==stem):
         c = c+1
     print ("Stemming by word net lemmatizer: " +stem)
@@ -95,5 +95,5 @@ print("With Porter:")
 print(a)
 print("With Lancaster:")
 print(b)
-print("With Word Net lemmatizer:")
+print("With Snow ball Stemmer:")
 print(c)
