@@ -11,4 +11,9 @@ You need:
 4. Snowball Stemmer
 5. Word Net
 Option 3-5 are optional as they just compare the results with my stemmer.
+The links to download the above resources are:
+Python 3.4 :https://www.python.org/downloads/
+NLTK http://www.nltk.org/install.html
+Enchant http://pythonhosted.org/pyenchant/download.html
+NLT data: http://www.nltk.org/data.html
 
