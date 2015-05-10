@@ -87,7 +87,7 @@ for word in tokens:
     stem = snowball.stem(word)
     if (stem1==stem):
         c = c+1
-    print ("Stemming by word net lemmatizer: " +stem)
+    print ("Stemming by Snow ball Stemmer: " +stem)
     print('\n --------------------------------------------------------')
     
 print ("No of Matches:")

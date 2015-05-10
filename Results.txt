@@ -1,0 +1,184 @@
+A test on sample of words with suffixes 
+
+The word is: tied
+Stem by my Stemmer: ti
+Stem by Porter: tie
+Stem by Lancaster: tied
+Stemming by word net lemmatizer: tie
+
+ --------------------------------------------------------
+The word is: cries
+Stem by my Stemmer: cry
+Stem by Porter: cri
+Stem by Lancaster: cri
+Stemming by word net lemmatizer: cri
+
+ --------------------------------------------------------
+The word is: hurried
+Stem by my Stemmer: hurried
+Stem by Porter: hurri
+Stem by Lancaster: hurry
+Stemming by word net lemmatizer: hurri
+
+ --------------------------------------------------------
+The word is: this
+Stem by my Stemmer: thin
+Stem by Porter: thi
+Stem by Lancaster: thi
+Stemming by word net lemmatizer: this
+
+ --------------------------------------------------------
+The word is: bus
+Stem by my Stemmer: bu
+Stem by Porter: bu
+Stem by Lancaster: bus
+Stemming by word net lemmatizer: bus
+
+ --------------------------------------------------------
+The word is: coheed
+Stem by my Stemmer: cohere
+Stem by Porter: cohe
+Stem by Lancaster: cohee
+Stemming by word net lemmatizer: cohe
+
+ --------------------------------------------------------
+The word is: luxuriating
+Stem by my Stemmer: luxury
+Stem by Porter: luxuri
+Stem by Lancaster: luxury
+Stemming by word net lemmatizer: luxuri
+
+ --------------------------------------------------------
+The word is: disabled
+Stem by my Stemmer: dis
+Stem by Porter: disabl
+Stem by Lancaster: dis
+Stemming by word net lemmatizer: disabl
+
+ --------------------------------------------------------
+The word is: disablingly
+Stem by my Stemmer: disablingly
+Stem by Porter: disablingli
+Stem by Lancaster: dis
+Stemming by word net lemmatizer: disabl
+
+ --------------------------------------------------------
+The word is: hopped
+Stem by my Stemmer: hopped
+Stem by Porter: hop
+Stem by Lancaster: hop
+Stemming by word net lemmatizer: hop
+
+ --------------------------------------------------------
+The word is: spamming
+Stem by my Stemmer: spamming
+Stem by Porter: spam
+Stem by Lancaster: spam
+Stemming by word net lemmatizer: spam
+
+ --------------------------------------------------------
+The word is: emotional
+Stem by my Stemmer: emote
+Stem by Porter: emot
+Stem by Lancaster: emot
+Stemming by word net lemmatizer: emot
+
+ --------------------------------------------------------
+The word is: operational
+Stem by my Stemmer: operate
+Stem by Porter: oper
+Stem by Lancaster: op
+Stemming by word net lemmatizer: oper
+
+ --------------------------------------------------------
+The word is: operator
+Stem by my Stemmer: operator
+Stem by Porter: oper
+Stem by Lancaster: op
+Stemming by word net lemmatizer: oper
+
+ --------------------------------------------------------
+The word is: early
+Stem by my Stemmer: early
+Stem by Porter: earli
+Stem by Lancaster: ear
+Stemming by word net lemmatizer: earli
+
+ --------------------------------------------------------
+The word is: rationalise
+Stem by my Stemmer: rate
+Stem by Porter: rationalis
+Stem by Lancaster: rat
+Stemming by word net lemmatizer: rationalis
+
+ --------------------------------------------------------
+The word is: youthful
+Stem by my Stemmer: youth
+Stem by Porter: youth
+Stem by Lancaster: youth
+Stemming by word net lemmatizer: youth
+
+ --------------------------------------------------------
+The word is: happiness
+Stem by my Stemmer: happily
+Stem by Porter: happi
+Stem by Lancaster: happy
+Stemming by word net lemmatizer: happi
+
+ --------------------------------------------------------
+The word is: decorative
+Stem by my Stemmer: decorate
+Stem by Porter: decor
+Stem by Lancaster: dec
+Stemming by word net lemmatizer: decor
+
+ --------------------------------------------------------
+The word is: penal
+Stem by my Stemmer: pen
+Stem by Porter: penal
+Stem by Lancaster: pen
+Stemming by word net lemmatizer: penal
+
+ --------------------------------------------------------
+The word is: dence
+Stem by my Stemmer: dence
+Stem by Porter: denc
+Stem by Lancaster: dent
+Stemming by word net lemmatizer: denc
+
+ --------------------------------------------------------
+The word is: kate
+Stem by my Stemmer: ken
+Stem by Porter: kate
+Stem by Lancaster: kat
+Stemming by word net lemmatizer: kate
+
+ --------------------------------------------------------
+The word is: lous
+Stem by my Stemmer: lour
+Stem by Porter: lou
+Stem by Lancaster: lou
+Stemming by word net lemmatizer: lous
+
+ --------------------------------------------------------
+The word is: consigned
+Stem by my Stemmer: consign
+Stem by Porter: consign
+Stem by Lancaster: consign
+Stemming by word net lemmatizer: consign
+
+ --------------------------------------------------------
+The word is: consisted
+Stem by my Stemmer: cons
+Stem by Porter: consist
+Stem by Lancaster: consist
+Stemming by word net lemmatizer: consist
+
+ --------------------------------------------------------
+The word is: consistently
+Stem by my Stemmer: consistently
+Stem by Porter: consist
+Stem by Lancaster: consist
+Stemming by word net lemmatizer: consist
+
+ --------------------------------------------------------
